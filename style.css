@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    background-color: #EDEDEE;
+    width: 100%;
+    height: auto;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-div {
+    background-color: white;
+    width: 99%;
+    margin: 0 auto;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    max-width: 600px;
+    margin : 0 auto;
+}
+
+#tribute-info p {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+}
